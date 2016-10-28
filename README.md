@@ -10,14 +10,14 @@
 #
 
 # In order to download and use the project, download the whole folder into the "swe2016" folder in the GL system.
-# The site map will show the order and set up of the website.
-# In order to use the website, you must go to https://swe.umbc.edu/~usernameHere.
-# All of the files that you just downloaded will appear there. 
-# The first file for the student website is 'login.html'.
-# Clicking on that file will bring you to the beginning of the student website. 
-# The first file for the advisor website is 'advisorCreater.html'.
-# Clicking on that file will bring you to the beginning of the advisor website.
-# All of the CSS code is coded in 'standard.css'.
+ The site map will show the order and set up of the website.
+ In order to use the website, you must go to https://swe.umbc.edu/~usernameHere.
+ All of the files that you just downloaded will appear there. 
+ The first file for the student website is 'login.html'.
+ Clicking on that file will bring you to the beginning of the student website. 
+ The first file for the advisor website is 'advisorCreater.html'.
+ Clicking on that file will bring you to the beginning of the advisor website.
+ All of the CSS code is coded in 'standard.css'.
 
 # The authors of this project are: Anonymous 1, Anonymous 2, and Anonymous 3.
 
